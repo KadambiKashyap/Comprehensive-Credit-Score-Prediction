@@ -1,6 +1,4 @@
-# Project Title
-
-Comprehensive Credit Score Prediction
+# Comprehensive Credit Score Prediction
 
 ## Skills Takeaway From This Project
 
